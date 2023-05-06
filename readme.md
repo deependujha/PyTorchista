@@ -21,3 +21,7 @@ pip3 install torch torchvision torchaudio
 ```
 
 ---
+
+## Contents 🛂
+
+1. [Tensors & Operations](./01_tensors_and_operations/)
