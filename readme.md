@@ -10,18 +10,6 @@ PyTorch is an open-source machine learning library for Python, developed primari
 
 ---
 
-## Installation
-
-- Visit the [PyTorch website](https://pytorch.org/get-started/locally/) and select your preferences to install PyTorch on your local machine.
-
-![install pytorch](./assets/01_installation/install.png)
-
-```bash
-pip3 install torch torchvision torchaudio
-```
-
----
-
 ## Contents 🛂
 
 1. [Tensors & Operations](./01_tensors_and_operations/)
