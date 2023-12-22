@@ -1,4 +1,18 @@
-# PyTorch 🐍🔦
+# PyTorchista 🐍🔦
+
+![PyTorchista](./00_assets/PyTorchista.jpg)
+
+<div align="center">
+PyTorch + Batista = PyTorchista
+</div>
+
+---
+
+### Disclaimer ⚠️
+- This repository is a collection of notes curated from multiple resources like, ZTM PyTorch course, Stanford Deep learning course, etc.
+
+- The sole purpose of this repo is for `my own revision`. 
+---
 
 ## What is PyTorch?
 
